@@ -29,7 +29,7 @@ export const App = observer(() => {
         <Handle />
         <Toolbar />
         <Info visible={store.tabsStore.tabs.length === 0}>
-          <Icon /> Drop windows here
+          <Icon /> Drop windows here, ya dick
         </Info>
       </React.Fragment>
     </ThemeProvider>

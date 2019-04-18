@@ -1,6 +1,6 @@
 {
-  "appId": "org.sential.multrin",
-  "productName": "Multrin",
+  "appId": "org.nirinium.k3tabs",
+  "productName": "k3tabs",
   "asar": true,
   "directories": {
     "output": "dist",
